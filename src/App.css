@@ -1,0 +1,19 @@
+
+.container{
+    background-color: beige;
+    border: 5px dotted black;
+    font-family: monospace;
+}
+
+h1{
+    text-align: center;
+}
+
+.items{
+    padding: 0px;
+    text-align: left;
+    display: flex;
+}
+.items span {
+    margin-left: auto;
+}
